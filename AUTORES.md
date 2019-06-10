@@ -2,8 +2,9 @@
 
 ## Autores
 
-* Sergio Sanchez Zavala <chekos@tacosdedatos.com>
+* Israel Pena <[@YaNiPaper](https://twitter.com/YaNiPaper)>
+
 
 ## Contribuyentes
 
- - XXXX
+* Sergio Sanchez Zavala <chekos@tacosdedatos.com>
