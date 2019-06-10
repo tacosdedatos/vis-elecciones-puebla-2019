@@ -1,0 +1,9 @@
+name: elecciones-puebla-2019
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - altair
+  - pip
+  - pip:
+    - arrow
